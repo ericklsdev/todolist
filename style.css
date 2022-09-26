@@ -7,7 +7,10 @@
 }
 
 body {
-    background-color: #123469;
+    background-image: url("../img/img.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 button {
