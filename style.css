@@ -7,10 +7,7 @@
 }
 
 body {
-    background-image: url("https://user-images.githubusercontent.com/106326550/192364770-f4367d30-9028-47f4-be3e-68f03484c74a.jpg");
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-color: #123469;
 }
 
 button {
